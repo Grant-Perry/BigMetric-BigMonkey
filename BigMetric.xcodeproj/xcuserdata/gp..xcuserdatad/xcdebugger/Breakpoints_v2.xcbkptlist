@@ -7,33 +7,61 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "96D94841-8A94-471F-AB21-0687FE91F32A"
+            uuid = "A2A223A7-47D7-4F0C-A3E8-473E48538E36"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BigMetric iOS APP/Helpers/WorkoutListItem.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "body"
             landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "529B865B-B4E7-455A-95A5-55C4F67D0FD7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BigMetric iOS APP/Helpers/WorkoutListItem.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "151"
-            endingLineNumber = "151"
-            landmarkName = "focusLocations()"
-            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2A223A7-47D7-4F0C-A3E8-473E48538E36 - dd4043cea92682af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, _MapKit_SwiftUI.Map&lt;_MapKit_SwiftUI.MapContentView&lt;Swift.Never, &lt;&lt;opaque return type of _MapKit_SwiftUI.MapContent.stroke&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, lineWidth: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, _MapKit_SwiftUI.Map&lt;_MapKit_SwiftUI.MapContentView&lt;Swift.Never, &lt;&lt;opaque return type of _MapKit_SwiftUI.MapContent.stroke&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, lineWidth: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;)&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in BigMetric.WorkoutListItem.body.getter : some"
+                  moduleName = "BigMetric"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Gp.%20Scream%20II/Backup/XCode/Gp./BigMetric%20BigMonkey/BigMetric%20iOS%20APP/Helpers/WorkoutListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "A2A223A7-47D7-4F0C-A3E8-473E48538E36 - c022cf5478d8fddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of _MapKit_SwiftUI.MapContent.stroke&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, lineWidth: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, _MapKit_SwiftUI.Map&lt;_MapKit_SwiftUI.MapContentView&lt;Swift.Never, &lt;&lt;opaque return type of _MapKit_SwiftUI.MapContent.stroke&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, lineWidth: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, _MapKit_SwiftUI.Map&lt;_MapKit_SwiftUI.MapContentView&lt;Swift.Never, &lt;&lt;opaque return type of _MapKit_SwiftUI.MapContent.stroke&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, lineWidth: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;)&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in BigMetric.WorkoutListItem.body.getter : some"
+                  moduleName = "BigMetric"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Gp.%20Scream%20II/Backup/XCode/Gp./BigMetric%20BigMonkey/BigMetric%20iOS%20APP/Helpers/WorkoutListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "A2A223A7-47D7-4F0C-A3E8-473E48538E36 - 62b2ca9fc96d9a9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.theHead() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.headSmall() -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0)&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in BigMetric.WorkoutListItem.body.getter : some"
+                  moduleName = "BigMetric"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Gp.%20Scream%20II/Backup/XCode/Gp./BigMetric%20BigMonkey/BigMetric%20iOS%20APP/Helpers/WorkoutListItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

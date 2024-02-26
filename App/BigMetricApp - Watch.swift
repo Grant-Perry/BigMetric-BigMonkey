@@ -6,13 +6,12 @@
 
 //			Trust ONLY this project Modified/Branch: Monday January 22, 2024 at 1:03:43 PM
 
-//			DEVELOP MODE branch
 
 import SwiftUI
 
 let APP_NAME 		= "BigMetric"
-let APP_VERSION 	= "d3.0 RhiNO-M0nkEY"
-let MOD_DATE 		= "Mod: 1/22/24 1:02PM"
+let APP_VERSION 	= "3.2 RhiNO-M0nkEY"
+let MOD_DATE 		= "Mod: 2/25/24 10:49AM"
 
 @main
 struct BigMetric_Watch_AppApp: App {
